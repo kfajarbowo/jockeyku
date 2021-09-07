@@ -34,12 +34,7 @@ const Footer = () => {
     return (
         <Container>
             <Wrapper>
-                <List>
-                    {/* <ListItem>Home</ListItem>
-                    <ListItem>Features</ListItem>
-                    <ListItem>Services</ListItem>
-                    <ListItem>Contact</ListItem> */}
-                </List>
+               <List></List>
                 <Copyright>Copyright &#169; 2021. All Right Reserved. Love From Depok</Copyright>
             </Wrapper>
         </Container>
