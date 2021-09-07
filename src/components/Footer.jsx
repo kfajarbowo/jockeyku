@@ -19,9 +19,7 @@ const List = styled.ul`
     list-style: none;
     display: flex;
 `
-const ListItem = styled.li`
-    margin-right: 20px;
-`
+
 const Copyright = styled.span`
     align-items: center;
     justify-content: center;
